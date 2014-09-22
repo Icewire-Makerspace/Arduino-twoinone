@@ -15,6 +15,6 @@ This project has two functions. The first function displays photocell and temper
 ## Setting Up
 Install the LCD library by moving the "lcd" folder into your Arduino libraries directory. On Windows, the default is ```C:\Users\<User Name>\Documents\Arduino\libraries```
 
-Connect the components according to the schematic twoinone.pdf.
+Connect the components according to the schematic twoinone.pdf
 
 Upload the twoinone sketch to your Arduino Uno with the Arduino IDE and enjoy!
